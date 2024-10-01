@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repo is archived/deprecated — please see https://github.com/ohsu-comp-bio/docker-centos7-slurm for the latest updates
+
 # Slurm on CentOS 6 Docker Image
 
 [![Docker Build Status](https://img.shields.io/docker/build/giovtorres/docker-centos6-slurm.svg)](https://hub.docker.com/r/giovtorres/docker-centos6-slurm/builds/)
